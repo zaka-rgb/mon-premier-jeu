@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506045336 source:d:\prog\mon premiere jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
